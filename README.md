@@ -1,1 +1,2 @@
-# Day2_Weather-100
+# 100DAYS-OF-CODE-CHALLENGE
+## DAY-1
